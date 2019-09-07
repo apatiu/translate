@@ -1,5 +1,6 @@
 {
   "netfs_format": "Unlimited data at :speed",
   "netfup_format": "Unlimited data at :speed until reach to :volumn then use with :fupspeed",
-  "netvol_format": ":volumn data with maximum speed"
+  "netvol_format": ":volumn data with maximum speed",
+  "nettime_format": "Unlimited data for :time"
 }
